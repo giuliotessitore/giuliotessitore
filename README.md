@@ -3,7 +3,7 @@
   <hr>
   📫If you want to get to know me better:
   <li>🌐Website: https://giulio-virtual-world.000webhostapp.com</li>
-  <li>Youtube channel: https://www.youtube.com/@appassionati_di_coding2467/about</li>
+  <li>Youtube channel: https://www.youtube.com/@giulio-virtual-world/about</li>
 </ul>
 
 
